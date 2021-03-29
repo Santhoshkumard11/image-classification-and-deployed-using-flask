@@ -138,7 +138,7 @@ pycryptodomex==3.7.0
 pycurl==7.43.0.2
 PyDispatcher==2.0.5
 pyflakes==2.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyHamcrest==1.9.0
 pylint==2.1.1
 pyOpenSSL==18.0.0
