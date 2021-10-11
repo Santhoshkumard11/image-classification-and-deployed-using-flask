@@ -1,7 +1,7 @@
 # Deployment-Deep-Learning-Model
 
 
-In this project you will find the machine learning algorithm to classify different type of blood cancer.
+In this project you will find a machine learning model to classify different types of blood cancer.
 
 The model is trained with nearly 10000 images which consist of four classes ALL, AML, CML, CLL.
 
